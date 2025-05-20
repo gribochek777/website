@@ -1,4 +1,4 @@
- <style>
+ 
         * {
             margin: 0;
             padding: 0;
@@ -13,9 +13,9 @@
         
         .container {
             width: 100%;
-            max-width: 1200px;
+            max-width: 1300px;
             margin: 0 auto;
-            padding: 0 15px;
+            padding: 0 30px;
         }
         
         /* Header Styles */
@@ -31,7 +31,7 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 20px 0;
+            padding: 40px 0;
         }
         
         .logo {
@@ -297,4 +297,4 @@
                 margin-bottom: 30px;
             }
         }
-    </style>
+  
